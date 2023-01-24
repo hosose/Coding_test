@@ -1,4 +1,4 @@
-/*
+/* 처음 시도한 코드 (테스트 19번을 통과하지 못함... 이유 알 수 없음)
 function solution(today, terms, privacies) {
   let answer = [];
   let objectTerms = {}
