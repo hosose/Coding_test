@@ -1,11 +1,5 @@
 [https://school.programmers.co.kr/learn/courses/30/lessons/155652](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 
-[프로그래머스
-
-코드 중심의 개발자 채용. 스택 기반의 포지션 매칭. 프로그래머스의 개발자 맞춤형 프로필을 등록하고, 나와 기술 궁합이 잘 맞는 기업들을 매칭 받으세요.
-
-programmers.co.kr](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
-
 #### **문제 설명**
 
 두 문자열 s와 skip, 그리고 자연수 index가 주어질 때, 다음 규칙에 따라 문자열을 만들려 합니다. 암호의 규칙은 다음과 같습니다.
